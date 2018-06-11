@@ -1,0 +1,12 @@
+apiws\SearchClientByNameRequest.class
+apiws\RequestConfiguration.class
+apiws\ObjectFactory.class
+apiws\ClientRequest.class
+apiws\UpdateClientRequest.class
+apiws\ClientInfo.class
+apiws\AddressInfo.class
+apiws\GetClientByIdRequest.class
+apiws\package-info.class
+apiws\GetClientResponse.class
+XsdGeneratorConfig.class
+XsdGenerator.class
